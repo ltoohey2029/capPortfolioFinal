@@ -12,9 +12,13 @@ h1 {
   border-width: 3px;
   border-style: solid;
 }
-p {
+.me {
   color: #6c1a2b;
   font-size: 30px;
+}
+.paragraphs {
+  color: #6c1a2b;
+  font-size: 20px;
 }
 img {
   display: block;
