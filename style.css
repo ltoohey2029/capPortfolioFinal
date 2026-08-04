@@ -42,6 +42,7 @@ a {
   background: #b74d63;
   display: flex;
   flex-direction: row;
+  flex-wrap: wrap;
   justify-content: space-around;
   margin-top: 50px;  
 }
