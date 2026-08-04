@@ -50,3 +50,6 @@ a {
   margin-top: 40px;
   width: 700px
 }
+iframe {
+  float: right;
+}
